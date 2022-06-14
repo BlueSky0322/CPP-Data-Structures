@@ -9,6 +9,7 @@ At the end of each week, a report is generated to list all tutors of the Tuition
 
 The admin manager of the tuition center has decided that it is time to computerize the records of Tutors serving in the Tuition Center due to the problems with the manual filling system. Since you have some knowledge in developing a computerized system, the Tuition Center HR Manager has approaches you to assist them in developing the system.
 ---------
+
 This project requires you to develop C++ program for the Tutors Management System which should contains features stated below:
 i. Add a Tutor Record
 ii. Display All Records
