@@ -1,4 +1,4 @@
-# CPP-Data-Structures
+# 2022 C++ Data Structures
 eXcel Tuition Centre Management System
 -----------
 eXcel Tuition Centre is one of the fast-growing tuition Centre in Malaysia that employed tens of tutor to conduct tuition classes on all the school subjects in their various Tuition Centers. All the tutors are paid by hourly rate ranged from RM40.00 – RM80.00, depends on the subject they teach. Tutors can be rated by the students on their teaching performance with a scale rating from 1-5, where 1 is “very poor performance” and 5 is “excellent performance”. The tuition Centre needs a system to store information about their tutors (identified by Tutor ID, Name, Date Joined, Date Terminated, Hourly Rate, Phone, Address, Tuition Centre Code, Tuition Center Name, Subject Code, Subject Name, Rating [a single digit integer number ranging from 1 to 5]). To maintain quality and consistency, one tutor is allowed to teach on the subject in their specialized field only.
