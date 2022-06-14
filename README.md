@@ -8,20 +8,19 @@ Tuition Centres are located in various locations and each of the Tuition Centre 
 At the end of each week, a report is generated to list all tutors of the Tuition Center to keep track of the available vacancy for new tutors.
 
 The admin manager of the tuition center has decided that it is time to computerize the records of Tutors serving in the Tuition Center due to the problems with the manual filling system. Since you have some knowledge in developing a computerized system, the Tuition Center HR Manager has approaches you to assist them in developing the system.
----------
-
+-
 This project requires you to develop C++ program for the Tutors Management System which should contains features stated below:
-i. Add a Tutor Record
-ii. Display All Records
-iii. Search a Tutor by Tutor ID
-iv. Search Tutors by overall performance (Rating)
-v. Sort and display by Tutors ID in ascending order
-vi. Sort and display by Tutors Hourly Pay Rate in ascending order
-vii. Sort and display by Tutors Overall Performance in ascending order
-viii. Modify a Tutor Record
-ix. Delete a Tutor Record
-x. Exit
-----------
+1. Add a Tutor Record
+2. Display All Records
+3. Search a Tutor by Tutor ID
+4. Search Tutors by overall performance (Rating)
+5. Sort and display by Tutors ID in ascending order
+6. Sort and display by Tutors Hourly Pay Rate in ascending order
+7. Sort and display by Tutors Overall Performance in ascending order
+8. Modify a Tutor Record
+9. Delete a Tutor Record
+10. Exit
+-
 Your are required to develop the system using TWO approaches:
-i. Array of Structure
-ii. Linked List
+1. Array of Structure
+2. Linked List
